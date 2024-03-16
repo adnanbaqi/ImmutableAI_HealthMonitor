@@ -1,0 +1,5 @@
+git+https://github.com/bigscience-workshop/petals
+flask
+flask-cors
+simplejson
+gunicorn[gthread]
